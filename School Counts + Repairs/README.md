@@ -16,11 +16,14 @@ The merged spreadsheet should have the following columns:
 * address (schools.csv col 6)
 * number students (schools.csv col 4)
 * number teachers (schools.csv col 5)
+* studet teacher ratio (divide # studets by # teachers)
 And for each reconstruction csv file
 * [year] reconstruction type (school_repairs_[year].csv col 4)
 * [year] cost (school_repairs_[year].csv last col)
 
 ## Notes
+### Student Teacher Ratio
+When creating this ratio, you must test to see if the teacher number exists and is not 0. If this is the case, do the division. If not, leave the value blank.
 ### Reconstruction Type
 * Some records do not have a value for this column. When this happens, use 'Unknown'
 * Some schools have multiple records for the same year. When this happens, use 'Multiple Types' and then sum up the cost for these records
