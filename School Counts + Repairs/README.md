@@ -1,7 +1,7 @@
 # School Teacher/Student Count + School Reports
 
 ## Summary
-JumpStart requested data about how many students and teachers are in each Georgian school. At the same time JumpStart also requested a list of all schools that have had some kind of renovation work. JumpStart was given these two datasets in two different spreadsheet files and for analysis, these two files need to be merged into one.
+JumpStart requested data about how many students and teachers are in each Georgian school. At the same time JumpStart also requested a list of all schools that have had some kind of renovation work. JumpStart was given these two datasets in two different spreadsheet files and for analysis, these two files need to be merged into one. The file name for the new spreadsheet should be 'schools_counts_reconstruction_merge.csv'.
 
 ## How match school records in spreadsheets
 Matches will be made by comparing school names. The 3rd column in schools.csv file is the school name and the 3rd column in the school_repairs_[year].csv files is the school name.
