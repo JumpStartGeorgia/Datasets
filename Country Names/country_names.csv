@@ -1,0 +1,252 @@
+iso num,iso_alpha,en_name,ka_name
+004,AFG,Afghanistan, ავღანეთი
+248,ALA,Aland Islands !Åland Islands, ალანდის კუნძულები
+008,ALB,Albania, ალბანეთი
+012,DZA,Algeria, ალჟირი
+016,ASM,American Samoa, ამერიკის სამოა
+020,AND,Andorra, ანდორა
+024,AGO,Angola, ანგოლა
+660,AIA,Anguilla, ანგილია
+010,ATA,Antarctica, ანტარქტიდა
+028,ATG,Antigua and Barbuda, ანტიგუა და ბარბუდა
+032,ARG,Argentina, არგენტინა
+051,ARM,Armenia, სომხეთი
+533,ABW,Aruba, არუბა
+036,AUS,Australia, ავსტრალია
+040,AUT,Austria, ავსტრია
+031,AZE,Azerbaijan, აზერბაიჯანი
+044,BHS,Bahamas, ბაჰამის კუნძულები
+048,BHR,Bahrain, ბაჰრეინი
+050,BGD,Bangladesh, ბანგლადეში
+052,BRB,Barbados, ბარბადოსი
+112,BLR,Belarus, ბელარუსი
+056,BEL,Belgium, ბელგია
+084,BLZ,Belize, ბელიზი
+204,BEN,Benin, ბენინი
+060,BMU,Bermuda, ბერმუდის კუნძულები
+064,BTN,Bhutan, ბჰუტანი
+068,BOL,Bolivia (Plurinational State of), ბოლივია
+535,BES,"Bonaire, Sint Eustatius and Saba"
+070,BIH,Bosnia and Herzegovina, ბოსნია და ჰერცეგოვინა
+072,BWA,Botswana, ბოტსვანა
+074,BVT,Bouvet Island,ბუვე
+076,BRA,Brazil, ბრაზილია
+086,IOT,British Indian Ocean Territory, ბრიტანეთის ტერიტორიები ინდოეთის ოკეანეში
+096,BRN,Brunei Darussalam, ბრუნეი დარუსალამი
+100,BGR,Bulgaria, ბულგარეთი
+854,BFA,Burkina Faso, ბურკინა-ფასო
+108,BDI,Burundi, ბურუნდი
+116,KHM,Cambodia, კამბოჯა
+120,CMR,Cameroon, კამერუნი
+124,CAN,Canada, კანადა
+132,CPV,Cabo Verde, კაბო-ვერდე
+136,CYM,Cayman Islands, კაიმანის კუნძულები
+140,CAF,Central African Republic, ცენტრალური აფრიკის რესპუბლიკა
+148,TCD,Chad, ჩადი
+152,CHL,Chile, ჩილე
+156,CHN,China, ჩინეთი
+162,CXR,Christmas Island, შობის კუნძული
+166,CCK,Cocos (Keeling) Islands, ქოქოსის კუნძულები
+170,COL,Colombia, კოლუმბია
+174,COM,Comoros, კომორის კუნძულების კავშირი
+178,COG,Congo, კონგო
+180,COD,Congo (Democratic Republic of the), კონგოს დემოკრატიული რესპუბლიკა
+184,COK,Cook Islands, კუკის კუნძულები
+188,CRI,Costa Rica, კოსტა-რიკა
+384,CIV,Cote d'Ivoire !Côte d'Ivoire, კოტ-დ’ივუარი
+191,HRV,Croatia, ხორვატია
+192,CUB,Cuba, კუბა
+531,CUW,Curacao !Curaçao
+196,CYP,Cyprus, კვიპროსი
+203,CZE,Czech Republic, ჩეხეთი
+208,DNK,Denmark, დანია
+262,DJI,Djibouti, ჯიბუტი
+212,DMA,Dominica, დომინიკა
+214,DOM,Dominican Republic, დომინიკელთა რესპუბლიკა
+218,ECU,Ecuador, ეკვადორი
+818,EGY,Egypt, ეგვიპტე
+222,SLV,El Salvador, სალვადორი
+226,GNQ,Equatorial Guinea, ეკვატორული გვინეა
+232,ERI,Eritrea, ერიტრეა
+233,EST,Estonia, ესტონეთი
+231,ETH,Ethiopia, ეთიოპია
+238,FLK,Falkland Islands (Malvinas), ფოლკლენდის კუნძულები (მალვინები)
+234,FRO,Faroe Islands, ფარერის კუნძულები
+242,FJI,Fiji, ფიჯი
+246,FIN,Finland, ფინეთი
+250,FRA,France, საფრანგეთი
+254,GUF,French Guiana, საფრანგეთის გვიანა
+258,PYF,French Polynesia, საფრანგეთის პოლინეზია
+260,ATF,French Southern Territories, საფრანგეთის სამხრეთული და ანტარქტიდული ტერიტორია
+266,GAB,Gabon, გაბონი
+270,GMB,Gambia, გამბია
+268,GEO,Georgia, საქართველო
+276,DEU,Germany, გერმანია
+288,GHA,Ghana, განა
+292,GIB,Gibraltar, გიბრალტარი
+300,GRC,Greece, საბერძნეთი
+304,GRL,Greenland, გრენლანდია
+308,GRD,Grenada, გრენადა
+312,GLP,Guadeloupe, გვადელუპა
+316,GUM,Guam, გუამი
+320,GTM,Guatemala, გვატემალა
+831,GGY,Guernsey, გერნზი
+324,GIN,Guinea, გვინეა
+624,GNB,Guinea-Bissau, გვინეა-ბისაუ
+328,GUY,Guyana, გაიანა
+332,HTI,Haiti, ჰაიტი
+334,HMD,Heard Island and McDonald Islands,ჰერდი და მაკდონალდის კუნძულები
+336,VAT,Holy See, ვატიკანი (წმინდა საყდარი)
+340,HND,Honduras, ჰონდურასი
+344,HKG,Hong Kong, ჰონგ-კონგი
+348,HUN,Hungary, უნგრეთი
+352,ISL,Iceland, ისლანდია
+356,IND,India, ინდოეთი
+360,IDN,Indonesia, ინდონეზია
+364,IRN,Iran (Islamic Republic of), ირანის მუსულმანური რესპუბლიკა
+368,IRQ,Iraq, ერაყი
+372,IRL,Ireland, ირლანდია
+833,IMN,Isle of Man, კუნძული მენი
+376,ISR,Israel, ისრაელი
+380,ITA,Italy, იტალია
+388,JAM,Jamaica, იამაიკა
+392,JPN,Japan, იაპონია
+832,JEY,Jersey, ჯერზი
+400,JOR,Jordan, იორდანია
+398,KAZ,Kazakhstan, ყაზახეთი
+404,KEN,Kenya, კენია
+296,KIR,Kiribati, კირიბატი
+408,PRK,Korea (Democratic People's Republic of), ჩრდილოეთი კორეა
+410,KOR,Korea (Republic of), სამხრეთი კორეა
+414,KWT,Kuwait, ქუვეითი
+417,KGZ,Kyrgyzstan, ყირგიზეთი
+418,LAO,Lao People's Democratic Republic, ლაოსის სახალხო დემოკრატიული რესპუბლიკა
+428,LVA,Latvia, ლატვია
+422,LBN,Lebanon, ლიბანი
+426,LSO,Lesotho, ლესოთო
+430,LBR,Liberia, ლიბერია
+434,LBY,Libya, ლიბიის არაბული ჯამაჰირია
+438,LIE,Liechtenstein, ლიხტენშტაინი
+440,LTU,Lithuania, ლიტვა
+442,LUX,Luxembourg, ლუქსემბურგი
+446,MAC,Macao, მაკაო
+807,MKD,Macedonia (the former Yugoslav Republic of), მაკედონია
+450,MDG,Madagascar, მადაგასკარი
+454,MWI,Malawi, მალავი
+458,MYS,Malaysia, მალაიზია
+462,MDV,Maldives, მალდივი
+466,MLI,Mali, მალი
+470,MLT,Malta, მალტა
+584,MHL,Marshall Islands, მარშალის კუნძულები
+474,MTQ,Martinique, მარტინიკა
+478,MRT,Mauritania, მავრიტანია
+480,MUS,Mauritius, მავრიკი
+175,MYT,Mayotte, მაიოტა
+484,MEX,Mexico, მექსიკა
+583,FSM,Micronesia (Federated States of), მიკრონეზიის ფედერაციული შტატები
+498,MDA,Moldova (Republic of), მოლდოვას რესპუბლიკა
+492,MCO,Monaco, მონაკო
+496,MNG,Mongolia, მონღოლეთი
+499,MNE,Montenegro, ჩერნოგორია
+500,MSR,Montserrat, მონსერატი
+504,MAR,Morocco, მაროკო
+508,MOZ,Mozambique, მოზამბიკი
+104,MMR,Myanmar, მიანმარი
+516,NAM,Namibia, ნამიბია
+520,NRU,Nauru, ნაურუ
+524,NPL,Nepal, ნეპალი
+528,NLD,Netherlands, ნიდერლანდი
+540,NCL,New Caledonia, ახალი კალედონია
+554,NZL,New Zealand, ახალი ზელანდია
+558,NIC,Nicaragua, ნიკარაგუა
+562,NER,Niger, ნიგერი
+566,NGA,Nigeria, ნიგერია
+570,NIU,Niue, ნიუე
+574,NFK,Norfolk Island, ნორფოლკი (კუნძული)
+580,MNP,Northern Mariana Islands, ჩრდილოეთი მარიანას კუნძულები
+578,NOR,Norway, ნორვეგია
+512,OMN,Oman, ომანი
+586,PAK,Pakistan, პაკისტანი
+585,PLW,Palau, პალაუ
+275,PSE,"Palestine, State of"," პალესტინის ტერიტორიები, ოკუპირებული"
+591,PAN,Panama, პანამა
+598,PNG,Papua New Guinea, პაპუა-ახალი გვინეა
+600,PRY,Paraguay, პარაგვაი
+604,PER,Peru, პერუ
+608,PHL,Philippines, ფილიპინები
+612,PCN,Pitcairn, პიტკერნის კუნძულები
+616,POL,Poland, პოლონეთი
+620,PRT,Portugal, პორტუგალია
+630,PRI,Puerto Rico, პუერტო-რიკო
+634,QAT,Qatar, კატარი
+638,REU,Reunion !Réunion, რეიუნიონი
+642,ROU,Romania, რუმინეთი
+643,RUS,Russian Federation, რუსეთი
+646,RWA,Rwanda, რუანდა
+652,BLM,Saint Barthelemy !Saint Barthélemy, სენ-ბართელმი
+654,SHN,"Saint Helena, Ascension and Tristan da Cunha", წმინდა ელენეს კუნძული
+659,KNA,Saint Kitts and Nevis, სენტ-კიტსი და ნევისი
+662,LCA,Saint Lucia, სენტ-ლუსია
+663,MAF,Saint Martin (French part), წმინდა მარტინი (საფრანგეთის ნაწილი)
+666,SPM,Saint Pierre and Miquelon, სენ-პიერი და მიკელონი
+670,VCT,Saint Vincent and the Grenadines, სენტ-ვინსენტი და გრენადინები
+882,WSM,Samoa, სამოა
+674,SMR,San Marino, სან-მარინო
+678,STP,Sao Tome and Principe, სან-ტომე და პრინსიპი
+682,SAU,Saudi Arabia, საუდის არაბეთი
+686,SEN,Senegal, სენეგალი
+688,SRB,Serbia, სერბეთი
+690,SYC,Seychelles, სეიშელი
+694,SLE,Sierra Leone, სიერა-ლეონე
+702,SGP,Singapore, სინგაპური
+534,SXM,Sint Maarten (Dutch part)
+703,SVK,Slovakia, სლოვაკეთი
+705,SVN,Slovenia, სლოვენია
+090,SLB,Solomon Islands, სოლომონის კუნძულები
+706,SOM,Somalia, სომალი
+710,ZAF,South Africa, სამხრეთ აფრიკა
+239,SGS,South Georgia and the South Sandwich Islands, სამხრეთი გეორგია და სამხრეთ სენდვიჩის კუნძულები
+728,SSD,South Sudan
+724,ESP,Spain, ესპანეთი
+144,LKA,Sri Lanka, შრი-ლანკა
+729,SDN,Sudan
+740,SUR,Suriname, სურინამი
+744,SJM,Svalbard and Jan Mayen,სვალბარდი და იან-მაიენი
+748,SWZ,Swaziland, სვაზილენდი
+752,SWE,Sweden, შვედეთი
+756,CHE,Switzerland, შვეიცარია
+760,SYR,Syrian Arab Republic, სირიის არაბთა რესპუბლიკა
+158,TWN,"Taiwan, Province of China", ტაივანი
+762,TJK,Tajikistan, ტაჯიკეთი
+834,TZA,"Tanzania, United Republic of", ტანზანიის გაერთიანებული რესპუბლიკა
+764,THA,Thailand, ტაილანდი
+626,TLS,Timor-Leste, აღმოსავლეთი ტიმორი
+768,TGO,Togo, ტოგო
+772,TKL,Tokelau, ტოკელაუ
+776,TON,Tonga, ტონგა
+780,TTO,Trinidad and Tobago, ტრინიდადი და ტობაგო
+788,TUN,Tunisia, ტუნისი
+792,TUR,Turkey, თურქეთი
+795,TKM,Turkmenistan, თურქმენეთი
+796,TCA,Turks and Caicos Islands, ტერქსისა და კაიკოსის კუნძულები
+798,TUV,Tuvalu, ტუვალუ
+800,UGA,Uganda, უგანდა
+804,UKR,Ukraine, უკრაინა
+784,ARE,United Arab Emirates, არაბთა გაერთიანებული საამიროები
+826,GBR,United Kingdom of Great Britain and Northern Ireland, გაერთიანებული სამეფო
+840,USA,United States of America, აშშ
+581,UMI,United States Minor Outlying Islands,აშშ-ის მიმდებარე მცირე კუნძულები
+858,URY,Uruguay, ურუგვაი
+860,UZB,Uzbekistan, უზბეკეთი
+548,VUT,Vanuatu, ვანუატუ
+862,VEN,Venezuela (Bolivarian Republic of), ვენესუელა
+704,VNM,Viet Nam, ვიეტნამი
+092,VGB,Virgin Islands (British), ვირჯინის კუნძულები (ბრიტანეთის)
+850,VIR,Virgin Islands (U.S.), ვირჯინის კუნძულები (აშშ-ის)
+876,WLF,Wallis and Futuna, უოლისი და ფუტუნა
+732,ESH,Western Sahara, დასავლეთი საჰარა
+887,YEM,Yemen, იემენი
+894,ZMB,Zambia, ზამბია
+716,ZWE,Zimbabwe, ზიმბაბვე
+530,ANT,, ნიდერლანდის ანტილები
+736,SDN,, სუდანი
